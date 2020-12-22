@@ -1,6 +1,6 @@
 ### Bugs Bunny
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mamamia5x&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)]
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=mamamia5x&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)]
 
 #### Projects I've Contributed To (that aren't mine)
 * [dumbmatter/gm-games](https://github.com/dumbmatter/gm-games)
@@ -16,3 +16,5 @@
   * An old inactive project of mine. It is written in PHP, and is meant to be used offline.
  
  You've reached the end. That's all folks!
+
+[![My WR](https://www.speedrun.com/themes/Default/1st.png)](https://www.speedrun.com/grab_them_by_the_eyes/run/mk8dko3m)
