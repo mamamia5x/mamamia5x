@@ -1,6 +1,6 @@
 ### Bugs Bunny
 
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=mamamia5x&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)]
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=mamamia5x&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
 
 #### Projects I've Contributed To (that aren't mine)
 * [dumbmatter/gm-games](https://github.com/dumbmatter/gm-games)
