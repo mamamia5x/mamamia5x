@@ -5,8 +5,10 @@
 #### Projects I've Contributed To (that aren't mine)
 * [dumbmatter/gm-games](https://github.com/dumbmatter/gm-games)
   * A really fun GM game where you manage sports teams. You can play it here at https://play.basketball-gm.com/
+* [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
+  * A dungeon written in Markdown. You can play it here at https://markdown-dungeon.netlify.app/start-new-game/
 * [patorjk/JavaScript-Snake](https://github.com/patorjk/JavaScript-Snake)
-  * A simple Snake game written in JS. You can play it at http://patorjk.com/games/snake/
+  * A simple Snake game written in JS. You can play it here at http://patorjk.com/games/snake/
 #### Projects You Should Check Out
 * [C++ Stock Market](https://github.com/mamamia5x/C-Stock-Market)
   * An old simple C++ Stock Market Simulator. 
