@@ -18,5 +18,7 @@
   * An old inactive project of mine. It is written in PHP, and is meant to be used offline.
  
  You've reached the end. That's all folks!
+ 
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamamia5x&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My WR](https://www.speedrun.com/themes/Default/1st.png)](https://www.speedrun.com/grab_them_by_the_eyes/run/mk8dko3m)
