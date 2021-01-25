@@ -14,6 +14,8 @@
 * [patorjk/JavaScript-Snake](https://github.com/patorjk/JavaScript-Snake)
   * A simple Snake game written in JS. You can play it here at http://patorjk.com/games/snake/
 #### Projects You Should Check Out
+* [Markdownpedia](https://github.com/mamamia5x/markdownpedia)
+  * A site similar to wikipedia written with Markdown.
 * [C++ Stock Market](https://github.com/mamamia5x/C-Stock-Market)
   * An old simple C++ Stock Market Simulator. 
 * [HTML5 Compiler](https://github.com/mamamia5x/HTML5-Compiler)
