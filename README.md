@@ -12,7 +12,9 @@
 * [MakeContributions/markdown-dungeon](https://github.com/MakeContributions/markdown-dungeon)
   * A dungeon written in Markdown. You can play it here at https://markdown-dungeon.netlify.app/start-new-game/
 * [patorjk/JavaScript-Snake](https://github.com/patorjk/JavaScript-Snake)
-  * A simple Snake game written in JS. You can play it here at http://patorjk.com/games/snake/
+  * A simple Snake game written in JS. You can play it here at http://patorjk.com/games/snake/  
+* [replit/kaboom](https://github.com/replit/kaboom)
+  * A JS Library used to make games quicker and faster, and is much easier to use.
 #### Projects You Should Check Out
 * [Markdownpedia](https://github.com/mamamia5x/markdownpedia)
   * A site similar to wikipedia written with Markdown.
