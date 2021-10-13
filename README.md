@@ -1,10 +1,14 @@
+
 # 🐰 Bugs Bunny
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mamamia5x&label=Profile%20Views&color=ff0000&style=flat" alt="mamamia5x" /> </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=mamamia5x&count_private=true&show_icons=true&theme=blue-green)]
-[![Github Trophies](https://github-profile-trophy.vercel.app/?username=mamamia5x&theme=chalk)](https://github.com/ryo-ma/github-profile-trophy)
+### Bugs Bunny Stats:
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=mamamia5x&count_private=true&show_icons=true&theme=dark)](https://github-readme-stats.vercel.app/api?username=mamamia5x&count_private=true&show_icons=true&theme=blue-green)<br>
+[![Github Trophies](https://github-profile-trophy.vercel.app/?username=mamamia5x&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)  
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamamia5x&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 #### Projects I've Contributed To (that aren't mine)
 * [dumbmatter/gm-games](https://github.com/dumbmatter/gm-games)
@@ -26,5 +30,3 @@
   * An old inactive project of mine. It is written in PHP, and is meant to be used offline.
  
  You've reached the end. That's all folks!
- 
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mamamia5x&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
